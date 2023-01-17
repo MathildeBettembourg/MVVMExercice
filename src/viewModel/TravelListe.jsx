@@ -9,7 +9,7 @@ const TravelList = () => {
          destination:"",
          debut:"",
          fin:"",
-        //  heureLocale:"",
+         heureLocale:"",
          nombrePersonnes:""
      }
 )
